@@ -1,0 +1,10 @@
+101|Laskar Pelangi|Fiksi|85000|20
+102|Filosofi Teras|Self Improvement|98000|13
+103|Algoritma C++|Edukasi|120000|10
+104|Bumi Manusia|Sejarah|110000|12
+105|Atomic Habits|Pengembangan Diri|105000|25
+106|Negeri 5 Menara|Religi|75000|18
+107|Clean Code|Teknologi|350000|5
+108|Hujan|Fiksi|88000|30
+109|Sapiens|Sains|150000|8
+110|The Psychology of Money|Keuangan|115000|14
