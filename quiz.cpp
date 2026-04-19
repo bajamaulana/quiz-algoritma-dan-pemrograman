@@ -377,8 +377,8 @@ int main() {
         }
     } while (pilihan != 0);
      
-    // STEP 3: Simpan kembali ke file (jika ada perubahan)
+    // Simpan kembali ke file (jika ada perubahan)
     tokoBuku::saveToFile(daftarBuku, jumlahSekarang);
-
+    delete[] daftarBuku; 
     return 0;
 }
